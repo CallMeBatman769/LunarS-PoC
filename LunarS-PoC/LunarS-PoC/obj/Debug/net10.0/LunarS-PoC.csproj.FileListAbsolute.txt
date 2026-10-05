@@ -1,0 +1,15 @@
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.AssemblyInfoInputs.cache
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.AssemblyInfo.cs
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.csproj.CoreCompileInputs.cache
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\bin\Debug\net10.0\LunarS-PoC.exe
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\bin\Debug\net10.0\LunarS-PoC.deps.json
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\bin\Debug\net10.0\LunarS-PoC.runtimeconfig.json
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\bin\Debug\net10.0\LunarS-PoC.dll
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\bin\Debug\net10.0\LunarS-PoC.pdb
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.dll
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\refint\LunarS-PoC.dll
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.pdb
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.genruntimeconfig.cache
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\ref\LunarS-PoC.dll
+C:\Users\olisc\source\repos\LunarS-PoC\LunarS-PoC\obj\Debug\net10.0\LunarS-PoC.csproj.Up2Date
